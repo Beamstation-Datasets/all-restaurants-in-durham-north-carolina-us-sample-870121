@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Durham, North Carolina with a population of over 283k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Durham, North Carolina, US",
-  "export_job_id": "7e8376c6-e4f6-473c-99bf-d1ad1f0c43ed",
+  "export_job_id": "a982595e-ac65-4393-8902-81fef90b7e48",
   "github_org": "Beamstation-Datasets",
   "id_short": 870121,
   "location_name": "Durham",
   "location_type": "city",
   "repo_name": "all-restaurants-in-durham-north-carolina-us-sample-870121",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/870121/beamstation_870121_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_pct": 10.59,
+  "sample_pct": 9.93,
   "sample_records": 103,
   "sample_sha256": "443d02a91e19f82f6271e347fb1af9ab024b08ea2c0bb15f033610d30cdbb82e",
   "sample_size_bytes": 410048,
-  "total_records": 973,
-  "updated_at": "2026-03-31T15:50:54.090000+00:00"
+  "total_records": 1037,
+  "updated_at": "2026-04-14T16:33:38.591126+00:00"
 }
