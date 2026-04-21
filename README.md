@@ -1,6 +1,6 @@
 # All Restaurants in Durham, North Carolina, US
 
-> Free BeamStation sample export with 103 rows and masked direct-contact fields.
+> Free BeamStation sample export with 110 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `870121` |
 | Location | Durham |
 | Category | Restaurants |
-| Full dataset size | 1,037 records |
-| Free sample size | 103 records (9.93%) |
-| Last export | 2026-04-14T16:33:38.591126+00:00 |
+| Full dataset size | 1,106 records |
+| Free sample size | 110 records (9.95%) |
+| Last export | 2026-04-21T18:03:49.239768+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-durham-north-carolina-us-sample-870121/releases/download/sample-latest/beamstation_870121_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
