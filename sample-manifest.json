@@ -1,12 +1,12 @@
 {
-  "export_job_id": "240875d6-e88a-40f9-bdda-6bd4d41ef2b8",
+  "export_job_id": "edc012b4-10a1-42e1-abd1-7293833c5ca1",
   "id_short": 870121,
-  "published_at": "2026-04-21T19:54:34Z",
+  "published_at": "2026-04-29T07:04:26Z",
   "repo_name": "all-restaurants-in-durham-north-carolina-us-sample-870121",
   "sample_asset_name": "beamstation_870121_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/870121/beamstation_870121_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 110,
-  "sample_sha256": "abd85f5c07c0d6b2ced3990c3a54540e46766607a7d1883f96c641baf0e6f446",
-  "sample_size_bytes": 430302,
-  "total_records": 1106
+  "sample_records": 108,
+  "sample_sha256": "f69ad5da4185581017ac0abdac9c429c9b115ba094f3c40d70de8185a88056f9",
+  "sample_size_bytes": 392364,
+  "total_records": 1088
 }
